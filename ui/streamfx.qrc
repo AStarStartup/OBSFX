@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="logos">
+    <file alias="streamfx_logo">../media/logo.png</file>
+  </qresource>
+  <qresource prefix="thankyou">
+    <file alias="thankyou_otter">../media/thankyou_otter.png</file>
+    <file alias="thankyou_fox">../media/thankyou_fox.png</file>
+    <file alias="thankyou_cat">../media/thankyou_cat.png</file>
+  </qresource>
+</RCC>
